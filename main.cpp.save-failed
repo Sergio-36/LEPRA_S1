@@ -1,0 +1,87 @@
+#include <iostream>
+#include "CODIFICADO.h"
+#include <stdlib.h>
+#include <conio.h>
+#include <string>
+#include <string.h>
+#include <cstring>
+#include <MENU.h>
+
+using namespace std;
+
+char *string_a_char(string PA) // TRANSFORMA UN STRING EN UN *CHAR
+{
+    char *x = new char[PA.length() + 1];
+    strcpy(x, PA.c_str());
+    return x;
+}
+int main()
+
+{
+
+    do {
+    int i;
+    char *x,*y;
+    string Palabra , Clave ;
+    cout<<"Introduce La Palabra que quieras codificar o decodificar "<<endl;
+    getline(cin, Palabra, '\n');
+    cout <<endl;
+    cout<<"Introduce Un codigo para empezar a codificar o decodificar"<<endl;
+    getline(cin, Clave , '\n');
+    cout<<endl;
+    x=string_a_char(x);//palabra
+    y=string_a_char("TAQUION");//CLAVE
+    CODIFICADO P_PRUEBA(x,y);
+    int *aux;
+    int opcion;
+    menu();
+    cin>>opcion;
+    cout<<endl<<endl;
+while (opcion != 8)
+{
+
+    if (opcion == 1)
+    {
+
+        aux = P_PRUEBA.Array_codificacion();
+        cout<<aux[2];
+        cout<<endl;
+        system("pause");
+        system("cls");
+        menu();
+        cin>>opcion;
+
+    }
+    if (opcion == 2)
+    {
+        P_PRUEBA.Array_decodificacion();
+
+        cout<<endl;
+        system("pause");
+        system("cls");
+        menu();
+        cin>>opcion;
+    }
+    if (opcion == 3)
+    {
+
+    }
+
+    if (opcion == 4)
+    {
+
+    }
+    if (opcion == 8)
+    {
+
+    }
+    if (opcion == 5)
+    {
+
+    }
+}
+    }while (opcion = 9);
+    return 0;
+
+
+}

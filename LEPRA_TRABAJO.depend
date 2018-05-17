@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1525840310 source:c:\users\sergio\desktop\lepra_trabajo-20180430t020820z-001\lepra_trabajo\main.cpp
+	<iostream>
+	"CODIFICADO.h"
+	<stdlib.h>
+	<string>
+	<cstring>
+
+1525840283 c:\users\sergio\desktop\lepra_trabajo-20180430t020820z-001\lepra_trabajo\include\codificado.h
+	<iostream>
+
+1525841530 source:c:\users\sergio\desktop\lepra_trabajo-20180430t020820z-001\lepra_trabajo\src\codificado.cpp
+	"CODIFICADO.h"
+	<iostream>
+	<string.h>
+	<string>
+
+1526447548 source:c:\users\sergio\desktop\google drive\lepra_trabajo-20180430t020820z-001\lepra_trabajo\main.cpp
+	<iostream>
+	"CODIFICADO.h"
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<string.h>
+	<cstring>
+	<MENU.h>
+	<COMPROBADOR.h>
+
+1526447373 c:\users\sergio\desktop\google drive\lepra_trabajo-20180430t020820z-001\lepra_trabajo\include\codificado.h
+	<iostream>
+
+1526447941 source:c:\users\sergio\desktop\google drive\lepra_trabajo-20180430t020820z-001\lepra_trabajo\src\codificado.cpp
+	"CODIFICADO.h"
+	<iostream>
+	<string.h>
+	<string>
+
+1526058715 source:c:\users\sergio\desktop\google drive\lepra_trabajo-20180430t020820z-001\lepra_trabajo\src\descifrado.cpp
+	"DESCIFRADO.h"
+
+1526058715 c:\users\sergio\desktop\google drive\lepra_trabajo-20180430t020820z-001\lepra_trabajo\include\descifrado.h
+
+1526448127 c:\users\sergio\desktop\google drive\lepra_trabajo-20180430t020820z-001\lepra_trabajo\include\menu.h
+
+1526446023 c:\users\sergio\desktop\google drive\lepra_trabajo-20180430t020820z-001\lepra_trabajo\include\comprobador.h
+
+1526452046 source:c:\users\sergio\desktop\lepra_trabajo-20180516t053239z-001\lepra_trabajo\main.cpp
+	<iostream>
+	"CODIFICADO.h"
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<string.h>
+	<cstring>
+	<MENU.h>
+	<COMPROBADOR.h>
+
+1526436572 c:\users\sergio\desktop\lepra_trabajo-20180516t053239z-001\lepra_trabajo\include\codificado.h
+	<iostream>
+
+1526451755 c:\users\sergio\desktop\lepra_trabajo-20180516t053239z-001\lepra_trabajo\include\menu.h
+
+1526435222 c:\users\sergio\desktop\lepra_trabajo-20180516t053239z-001\lepra_trabajo\include\comprobador.h
+
+1526451990 source:c:\users\sergio\desktop\lepra_trabajo-20180516t053239z-001\lepra_trabajo\src\codificado.cpp
+	"CODIFICADO.h"
+	<iostream>
+	<string.h>
+	<string>
+
+1526451990 source:c:\users\sergio\desktop\lepra_trabajo\lepra_trabajo\src\codificado.cpp
+	"CODIFICADO.h"
+	<iostream>
+	<string.h>
+	<string>
+
+1526436572 c:\users\sergio\desktop\lepra_trabajo\lepra_trabajo\include\codificado.h
+	<iostream>
+
+1526452149 source:c:\users\sergio\desktop\lepra_trabajo\lepra_trabajo\main.cpp
+	<iostream>
+	"CODIFICADO.h"
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<string.h>
+	<cstring>
+	<MENU.h>
+	<COMPROBADOR.h>
+
+1526451755 c:\users\sergio\desktop\lepra_trabajo\lepra_trabajo\include\menu.h
+
+1526435222 c:\users\sergio\desktop\lepra_trabajo\lepra_trabajo\include\comprobador.h
+
+1526452149 source:c:\users\sergio\desktop\lepra_trabajo\lepra_trabajo\lepra_s1\main.cpp
+	<iostream>
+	"CODIFICADO.h"
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<string.h>
+	<cstring>
+	<MENU.h>
+	<COMPROBADOR.h>
+
+1526436572 c:\users\sergio\desktop\lepra_trabajo\lepra_trabajo\lepra_s1\include\codificado.h
+	<iostream>
+
+1526451755 c:\users\sergio\desktop\lepra_trabajo\lepra_trabajo\lepra_s1\include\menu.h
+
+1526435222 c:\users\sergio\desktop\lepra_trabajo\lepra_trabajo\lepra_s1\include\comprobador.h
+
+1526451990 source:c:\users\sergio\desktop\lepra_trabajo\lepra_trabajo\lepra_s1\src\codificado.cpp
+	"CODIFICADO.h"
+	<iostream>
+	<string.h>
+	<string>
+
